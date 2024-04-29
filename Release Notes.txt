@@ -1,1 +1,4 @@
 // Changes about this release
+
+29 Apr 2024
+Included Copy as JSON
