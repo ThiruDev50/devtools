@@ -14,3 +14,9 @@ Date : 16 August 2024
 
 Changes :
     - Included Genetom Code Editor
+
+============================================================
+Date : 25 August 2024
+
+Changes :
+    - getting webcomponent config from Files
