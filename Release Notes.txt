@@ -20,3 +20,18 @@ Date : 25 August 2024
 
 Changes :
     - getting webcomponent config from Files
+
+============================================================
+Date : 5 jan 2025
+
+Changes :
+    features:
+        - Supabase integration for DB Schema 
+        - Can save & load saved file for logged in users.
+        - Can load schema as JSON
+        - When exporting, Automatically save the data first.
+    
+    Bugs fixed:
+        - Multiple entries saved in local storage if we modify the project name
+    
+============================================================
