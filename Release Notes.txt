@@ -38,7 +38,7 @@ Changes :
 Date : 12 Jan 2025
 
 Changes :
-    Genetom DB Schema
+    Genetom DB Schema - V3
         - Replaced Editor with Canvas based one.
         - Tables can have color
         - Can able to connect columns (Relationship)
