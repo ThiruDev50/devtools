@@ -5,24 +5,21 @@ Welcome to the repository Genetom Devtools website. The aim is to create free, r
 
 ## About Project
 
-This project was meticulously crafted using Angular version 17.1.2, showcasing the latest advancements in web development technology. From its foundation to the intricate details, every aspect reflects a commitment to delivering a seamless and engaging user experience.
-Future tools will be created on top of Web components.
+This project serves as a foundation for free developer tools. Regardless of the framework or technology, these tools are designed to be created as web components. This ensures that anyone can integrate them seamlessly into their own projects.
+
+All tools and features provided will be completely free to use. While login is optional, it is required if you wish to save your data.
+
+For account creation or further assistance, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/thirumoorthy-n/)
 
 ### Recommended Viewing
 
 I recommend viewing the [final version](https://thirudev50.github.io/devtools/) on a laptop or desktop as this is primarily focus for laptop/desktop devices. This allows you to fully immerse yourself in the beauty of the 'On Hover' animations, providing a more comprehensive showcase of my skills and design philosophy.
 
-### Technologies Used
-
-- **Angular 17.1.2:** Leverage the power of Angular, a robust and feature-rich front-end framework, to create a seamless and dynamic user interface.
-
-- **SCSS:** Explore the creative possibilities of SCSS, a preprocessor scripting language that is used to describe the style of a document cleanly and structurally.
-
-- **TypeScript 5.3.2:** Enhance your development workflow with TypeScript, a superset of JavaScript that adds static typing to the language. This version, "~5.3.2," ensures compatibility with the project, bringing the benefits of strong typing and improved tooling support.
-
 ### Key Features
 
-- **Genetom DB Schema Editor:** Genetom DB Schema, Which is a poweful online tool fr schema designing. With security in mind, All the things will happn within client's system. Nothing will be sent to servers. Can able to save multiple version of same db schema. Added an auto save feature with your browser's local storage. Can export as HTMl and as '.gendb' file.
+- **Genetom DB Schema:**  [Genetom DB_Schema](https://thirudev50.github.io/devtools/#/dbschema), Which is a poweful online tool fr schema designing. With security in mind, All the things will happn within client's system. Nothing will be sent to servers (Unless you want to save in DB). Can able to save multiple version of same db schema. Added an auto save feature with your browser's local storage. Can export as HTMl and as '.gendb' file.
+
+- **Genetom Code Editor:** [Genetom Code Editor](https://thirudev50.github.io/devtools/#/code-editor) is a powerful tool designed to execute code in more than 15 programming languages using the Piston API. JavaScript and TypeScript code are compiled directly within the browser, ensuring a seamless and efficient experience for developers.
 
 ## Contact
 
