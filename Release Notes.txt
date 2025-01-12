@@ -35,3 +35,12 @@ Changes :
         - Multiple entries saved in local storage if we modify the project name
     
 ============================================================
+Date : 12 Jan 2025
+
+Changes :
+    Genetom DB Schema
+        - Replaced Editor with Canvas based one.
+        - Tables can have color
+        - Can able to connect columns (Relationship)
+        - Auto save by default will be false for newly created.
+        - Auto save will be change based on imported data schema (From DB, From JSON, From File, From Local)
