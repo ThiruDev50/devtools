@@ -36,7 +36,8 @@ Changes :
     
 ============================================================
 Date : 12 Jan 2025
-
+Release Branch : release/v2.0.0
+DevToolsCode : release/v3.0.0
 Changes :
     Genetom DB Schema - V3
         - Replaced Editor with Canvas based one.
