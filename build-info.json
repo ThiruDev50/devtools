@@ -1,0 +1,40 @@
+{
+  "build": {
+    "buildNumber": "9",
+    "buildId": "20377541571",
+    "buildUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/20377541571",
+    "triggeredBy": "ThiruDev50",
+    "workflow": "Devtools CI",
+    "buildDate": "2025-12-19T17:28:56Z",
+    "buildTimestamp": 1766165336
+  },
+  "source": {
+    "branch": "master",
+    "commit": {
+      "sha": "9be90524266eb90591b43bd3225ff833caa87a52",
+      "shortSha": "9be9052",
+      "message": "Root folder change CD",
+      "author": "ThiruDev50",
+      "authorEmail": "thiru.dev50@mail.com",
+      "date": "2025-12-19T22:55:45+05:30",
+      "url": "https://github.com/ThiruDev50/dev-tools-code/commit/9be90524266eb90591b43bd3225ff833caa87a52"
+    },
+    "repository": {
+      "name": "ThiruDev50/dev-tools-code",
+      "url": "https://github.com/ThiruDev50/dev-tools-code"
+    }
+  },
+  "deployment": {
+    "deploymentNumber": "4",
+    "deploymentId": "20377591932",
+    "deploymentUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/20377591932",
+    "deployedBy": "ThiruDev50",
+    "deploymentDate": "2025-12-19T17:30:00Z",
+    "deploymentTimestamp": 1766165400,
+    "ciBuildNumber": "9",
+    "ciRunId": "20377541571",
+    "ciArtifactName": "genetom-devtools-9",
+    "targetRepository": "ThiruDev50/devtools",
+    "targetBranch": "main"
+  }
+}
