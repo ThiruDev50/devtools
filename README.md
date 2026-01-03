@@ -19,7 +19,7 @@ I recommend viewing the [final version](https://thirudev50.github.io/devtools/) 
 
 - **Genetom Code Editor:** [Genetom Code Editor](https://thirudev50.github.io/devtools/#/code-editor) is a powerful tool designed to execute code in more than 15 programming languages using the Piston API. JavaScript and TypeScript code are compiled directly within the browser, ensuring a seamless and efficient experience for developers.
 
-- **Genetom Clipsync:** [Genetom Clipsync](https://thirudev50.github.io/devtools/#/clip-sync) is a secure context-sharing platform that enables users to share information through two distinct modes. Snapshot mode allows for quick sharing of context, files, and screenshots via shareable links, while Live mode enables real-time collaborative editing. Both modes feature robust security controls including time-based expiration, email-based access restrictions, IP filtering, and granular permission management for view and edit access.
+- **Genetom Clipsync:** [Genetom Clipsync](https://thirudev50.github.io/devtools/#/clipsync) is a secure context-sharing platform that enables users to share information through two distinct modes. Snapshot mode allows for quick sharing of context, files, and screenshots via shareable links, while Live mode enables real-time collaborative editing. Both modes feature robust security controls including time-based expiration, email-based access restrictions, IP filtering, and granular permission management for view and edit access.
 
 ## Contact
 
