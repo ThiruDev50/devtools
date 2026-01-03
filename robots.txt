@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://thirudev50.github.io/devtools/sitemap.xml
+
+# Allow crawling of hash routes
+Allow: /#/
+Allow: /#/code-editor
+Allow: /#/dbschema
+Allow: /#/clipsync
