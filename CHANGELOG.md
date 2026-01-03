@@ -8,6 +8,8 @@
 - JS API supports
 - Custom elements loaded handshake
 - Clipsync integration
+- OnError web component loading 
+- Redirect with query params while login
 
 ---
 
