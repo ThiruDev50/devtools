@@ -7,9 +7,7 @@ Welcome to the repository Genetom Devtools website. The aim is to create free, r
 
 This project serves as a foundation for free developer tools. Regardless of the framework or technology, these tools are designed to be created as web components. This ensures that anyone can integrate them seamlessly into their own projects.
 
-All tools and features provided will be completely free to use. While login is optional, it is required if you wish to save your data.
-
-For account creation or further assistance, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/thirumoorthy-n/)
+All tools and features provided will be completely free to use. While certain features demands login, You can sign up for free [Signup](https://thirudev50.github.io/devtools/#/signup)
 
 ### Recommended Viewing
 
@@ -20,6 +18,8 @@ I recommend viewing the [final version](https://thirudev50.github.io/devtools/) 
 - **Genetom DB Schema:**  [Genetom DB_Schema](https://thirudev50.github.io/devtools/#/dbschema), Which is a poweful online tool fr schema designing. With security in mind, All the things will happn within client's system. Nothing will be sent to servers (Unless you want to save in DB). Can able to save multiple version of same db schema. Added an auto save feature with your browser's local storage. Can export as HTMl and as '.gendb' file.
 
 - **Genetom Code Editor:** [Genetom Code Editor](https://thirudev50.github.io/devtools/#/code-editor) is a powerful tool designed to execute code in more than 15 programming languages using the Piston API. JavaScript and TypeScript code are compiled directly within the browser, ensuring a seamless and efficient experience for developers.
+
+- **Genetom Clipsync:** [Genetom Clipsync](https://thirudev50.github.io/devtools/#/clip-sync) is a secure context-sharing platform that enables users to share information through two distinct modes. Snapshot mode allows for quick sharing of context, files, and screenshots via shareable links, while Live mode enables real-time collaborative editing. Both modes feature robust security controls including time-based expiration, email-based access restrictions, IP filtering, and granular permission management for view and edit access.
 
 ## Contact
 
