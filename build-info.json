@@ -1,23 +1,23 @@
 {
   "build": {
-    "buildNumber": "4",
-    "buildId": "21116495179",
-    "buildUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/21116495179",
+    "buildNumber": "5",
+    "buildId": "21116760206",
+    "buildUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/21116760206",
     "triggeredBy": "ThiruDev50",
     "workflow": "Deploy to Devtools GH-Pages",
-    "buildDate": "2026-01-18T18:25:28Z",
-    "buildTimestamp": 1768760728
+    "buildDate": "2026-01-18T18:45:08Z",
+    "buildTimestamp": 1768761908
   },
   "source": {
-    "branch": "",
+    "branch": "master",
     "commit": {
-      "sha": "98a76f39b1b4f3deaec223cef8ef2eecc15a569d",
-      "shortSha": "98a76f3",
-      "message": "Change master -> main in deployment.yaml for GH repo\n",
+      "sha": "0c71fdeeb83681d01318ea956132072493837fdd",
+      "shortSha": "0c71fde",
+      "message": "Accomodating dist/tools/browser\n",
       "author": "ThiruDev50\n",
       "authorEmail": "thiru.dev50@mail.com\n",
-      "date": "2026-01-18T23:54:22+05:30",
-      "url": "https://github.com/ThiruDev50/dev-tools-code/commit/98a76f39b1b4f3deaec223cef8ef2eecc15a569d"
+      "date": "2026-01-19T00:12:01+05:30",
+      "url": "https://github.com/ThiruDev50/dev-tools-code/commit/0c71fdeeb83681d01318ea956132072493837fdd"
     },
     "repository": {
       "name": "ThiruDev50/dev-tools-code",
@@ -25,13 +25,13 @@
     }
   },
   "deployment": {
-    "deploymentNumber": "4",
-    "deploymentId": "21116495179",
-    "deploymentUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/21116495179",
+    "deploymentNumber": "5",
+    "deploymentId": "21116760206",
+    "deploymentUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/21116760206",
     "deployedBy": "ThiruDev50",
-    "deploymentDate": "2026-01-18T18:25:28Z",
-    "deploymentTimestamp": 1768760728,
+    "deploymentDate": "2026-01-18T18:45:08Z",
+    "deploymentTimestamp": 1768761908,
     "targetRepository": "ThiruDev50/devtools",
-    "targetBranch": "master"
+    "targetBranch": "main"
   }
 }
