@@ -1,23 +1,23 @@
 {
   "build": {
-    "buildNumber": "16",
-    "buildId": "20895765306",
-    "buildUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/20895765306",
+    "buildNumber": "4",
+    "buildId": "21116495179",
+    "buildUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/21116495179",
     "triggeredBy": "ThiruDev50",
-    "workflow": "Devtools CI",
-    "buildDate": "2026-01-11T13:18:07Z",
-    "buildTimestamp": 1768137487
+    "workflow": "Deploy to Devtools GH-Pages",
+    "buildDate": "2026-01-18T18:25:28Z",
+    "buildTimestamp": 1768760728
   },
   "source": {
-    "branch": "master",
+    "branch": "",
     "commit": {
-      "sha": "601c5b0bd85bd222c675733f93259483c0370345",
-      "shortSha": "601c5b0",
-      "message": "Routing changes for clipsync",
-      "author": "ThiruDev50",
-      "authorEmail": "thiru.dev50@mail.com",
-      "date": "2026-01-11T18:45:27+05:30",
-      "url": "https://github.com/ThiruDev50/dev-tools-code/commit/601c5b0bd85bd222c675733f93259483c0370345"
+      "sha": "98a76f39b1b4f3deaec223cef8ef2eecc15a569d",
+      "shortSha": "98a76f3",
+      "message": "Change master -> main in deployment.yaml for GH repo\n",
+      "author": "ThiruDev50\n",
+      "authorEmail": "thiru.dev50@mail.com\n",
+      "date": "2026-01-18T23:54:22+05:30",
+      "url": "https://github.com/ThiruDev50/dev-tools-code/commit/98a76f39b1b4f3deaec223cef8ef2eecc15a569d"
     },
     "repository": {
       "name": "ThiruDev50/dev-tools-code",
@@ -25,16 +25,13 @@
     }
   },
   "deployment": {
-    "deploymentNumber": "11",
-    "deploymentId": "20895803799",
-    "deploymentUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/20895803799",
+    "deploymentNumber": "4",
+    "deploymentId": "21116495179",
+    "deploymentUrl": "https://github.com/ThiruDev50/dev-tools-code/actions/runs/21116495179",
     "deployedBy": "ThiruDev50",
-    "deploymentDate": "2026-01-11T13:19:54Z",
-    "deploymentTimestamp": 1768137594,
-    "ciBuildNumber": "16",
-    "ciRunId": "20895765306",
-    "ciArtifactName": "genetom-devtools-16",
+    "deploymentDate": "2026-01-18T18:25:28Z",
+    "deploymentTimestamp": 1768760728,
     "targetRepository": "ThiruDev50/devtools",
-    "targetBranch": "main"
+    "targetBranch": "master"
   }
 }

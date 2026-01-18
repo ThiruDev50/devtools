@@ -1,5 +1,16 @@
 # 📦 Release Notes
 
+## 🚀 Release v5.0.0  
+**Date:** 18 Jan 2025
+**Branch:** `release/v5.0.0`
+
+### ✨ Changes
+- Upgrade Angular 17 -> 21
+- Responsive home page
+- Include tailwind v4
+- Inlcuding Terms of service & Privacy policy
+
+---
 ## 🚀 Release v4.1.0  
 **Date:** 03 Jan 2024
 **Branch:** `release/v4.1.0`
